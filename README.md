@@ -1,0 +1,13 @@
+# HOJA DE VIDA
+
+[foto]
+
+|NOMBRES|APELLIDOS|CELULAR|FECHA DE NACIMIENTO| T.I |
+|-------|---------|-------|-------------------|-----|
+|ALAN WADITH|POLO HOWARD|3243525964|01/12/2005|1043587165|
+
+# ESTUDIOS
+
+|COLEGIO|SENA|
+|-------|----|
+|CODESA|DIM|
