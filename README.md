@@ -1,6 +1,6 @@
 # HOJA DE VIDA
 
-[foto]
+![HOLA](https://github.com/AlanWadith/PRUEBA/blob/main/IMAGENXD.jpg)
 
 |NOMBRES|APELLIDOS|CELULAR|FECHA DE NACIMIENTO| T.I |USUARIO EN GITHUB|DIRECCION|CORREO ELECTRONICO|
 |-------|---------|-------|-------------------|-----|---------------|--------|---------------|
